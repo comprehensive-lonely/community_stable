@@ -1,2 +1,13 @@
 # community_stable
-This is my first project which separate the vue section and  springboot. I used all the knowledge I had at this stage, It's a great beginning !
+这是我的第一个前后端分离的项目，使用了vue2+springboot+MP。我运用了我在这个阶段所掌握的所有知识，这是一个很棒的开始！
+
+# 关于项目
+功能使用 vue + springboot + mysql 完成的一个简单的小论坛。
+
+  由于整个项目都是由自己独立完成，而我本身也是一个主学java的学生，所以我本人前端的页面美化做的较为简陋。但后台的逻辑还是相对完善的，在功能上没有测试出什么bug。
+
+  前端使用vue2 制作了基本的页面，自定义 token 携带参数，封装 axios 的用于像后端发送请求。后台使用springboot 对项目逻辑做出处理。发帖、用户管理、帖子的评论、评论的实时刷新、帖子搜索等功能。
+
+# 补充说明
+  处于能力有限，设想过的很多功能都没实现完整，所以短期就不会再对项目进行二次开发了，不出意外的话，根据标签的个性推送一时半会儿完不成了，希望以后的我看到这里的时候，可以帮忙搞定一下！！！
+  还有！回复其他用户的评论功能忘了做了！以后设计代码的时候一定要把思路导图画出来！别又忘了写某功能的接口！
